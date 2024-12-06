@@ -36,21 +36,38 @@ Estructura del Proyecto
 bash
 Copy code
 python-kingdom-saga/
+
 │
+
 ├── index.html            # Página principal
+
 ├── about.html            # Página "About Us"
+
 ├── gallery.html          # Página "Gallery"
+
 ├── contact.html          # Página "Contact Us"
+
 ├── blog.html             # Página "Blog and News"
+
 │
+
 ├── css/
+
 │   └── styles.css        # Archivo principal de estilos
+
 │
+
 ├── js/
+
 │   └── scripts.js        # Archivo principal de scripts
+
 │
+
 ├── assets/               # Carpeta para imágenes y recursos
+
 │   └── images/           # Imágenes del proyecto
+
 │
+
 └── README.md             # Documentación del proyecto
 
